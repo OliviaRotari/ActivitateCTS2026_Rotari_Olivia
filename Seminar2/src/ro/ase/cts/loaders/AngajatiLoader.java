@@ -1,6 +1,5 @@
 package ro.ase.cts.loaders;
 
-
 import ro.ase.cts.clase.Angajat;
 import ro.ase.cts.clase.Aplicant;
 
@@ -19,13 +18,14 @@ public class AngajatiLoader extends AplicantiLoader {
 
         while (input2.hasNext()) {
             Angajat angajat = new Angajat();
-            super.loadAplicant(input2,angajat);
+            super.loadAplicant(input2, angajat);
             int salariu = input2.nextInt();
             String ocupatie = input2.next();
             angajat.setSalariu(salariu);
             angajat.setOcupatie(ocupatie);
             angajati.add(angajat);
         }
+
         input2.close();
         return angajati;
     }

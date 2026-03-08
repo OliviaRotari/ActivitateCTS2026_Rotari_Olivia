@@ -1,7 +1,5 @@
 package ro.ase.cts.loaders;
 
-
-
 import ro.ase.cts.clase.Aplicant;
 import ro.ase.cts.clase.Student;
 
@@ -10,7 +8,6 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 
 public class StudentiLoader extends AplicantiLoader {
     @Override
@@ -21,13 +18,14 @@ public class StudentiLoader extends AplicantiLoader {
 
         while (input.hasNext()) {
             Student student = new Student();
-            super.loadAplicant(input,student);
-            int an_studii = input.nextInt();
-            String facultate = (input.next()).toString();
+            super.loadAplicant(input, student);
+            int anStudii = input.nextInt();
+            String facultate = (input.next());
             student.setFacultate(facultate);
-            student.setAn_studii(an_studii);
+            student.setAnStudii(anStudii);
             studenti.add(student);
         }
+
         input.close();
         return studenti;
     }
