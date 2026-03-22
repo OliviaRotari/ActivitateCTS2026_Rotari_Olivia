@@ -18,6 +18,7 @@ public class Program {
 
         InternareBuildertAlternativ buildertAlternativ = new InternareBuildertAlternativ();
         buildertAlternativ.setMicDejun(true);
+
         Internare internare101 = buildertAlternativ.build("Vlad Marinescu");
         Internare internare102 = buildertAlternativ.build("Petrescu Maria");
         Internare internare103 = buildertAlternativ.build("Valeriu Verban");

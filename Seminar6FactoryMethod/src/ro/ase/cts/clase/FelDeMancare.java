@@ -1,5 +1,5 @@
 package ro.ase.cts.clase;
 
-public interface FelDeMancare {
-    void afisareDescriere();
+public interface  FelDeMancare {
+    void afiseazaDescriere();
 }

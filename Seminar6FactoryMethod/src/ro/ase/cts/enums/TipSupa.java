@@ -1,5 +1,12 @@
+
 package ro.ase.cts.enums;
 
-public enum TipSupa implements TipFelDeMancare {
-    SupaDeLegume, SupaDeVita
+import ro.ase.cts.clase.SupaDeLegume;
+import ro.ase.cts.clase.SupaDeVita;
+
+public enum TipSupa  implements TipFelDeMancare{
+    SUPADELEGUME,
+    SUPADEVITA
+
+
 }

@@ -1,12 +1,12 @@
 package ro.ase.cts.clase;
 
-public class Clatite extends Desert {
-    public Clatite(int calorii, double pret, int gramaj) {
-        super(calorii, pret, gramaj);
+public class Clatite extends  Desert{
+    public Clatite(int calorii, int gramaj, double pret) {
+        super(calorii, gramaj, pret);
     }
 
     @Override
-    public void afisareDescriere() {
-        System.out.println("Clatite: " + super.toString());
+    public void afiseazaDescriere() {
+        System.out.println("Clatite "+super.toString());
     }
 }

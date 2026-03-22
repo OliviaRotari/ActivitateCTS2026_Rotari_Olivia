@@ -1,12 +1,12 @@
 package ro.ase.cts.clase;
 
-public class SupaDeVita extends Supa {
+public class SupaDeVita extends Supa{
     public SupaDeVita(int gramaj, double pret) {
         super(gramaj, pret);
     }
 
     @Override
-    public void afisareDescriere() {
-        System.out.println("Supa de vita: " + super.toString());
+    public void afiseazaDescriere() {
+        System.out.println("Supa de vita "+super.toString());
     }
 }

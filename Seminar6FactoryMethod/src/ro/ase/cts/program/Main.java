@@ -11,16 +11,18 @@ public class Main {
     public static void main(String[] args) {
 
         FabricaFelDeMancare fabricaFelDeMancare = new FabricaSupa();
-        FelDeMancare supaDeVita = fabricaFelDeMancare.creareFelDeMancare(TipSupa.SupaDeVita, 200, 20);
-        FelDeMancare supaDeLegume = fabricaFelDeMancare.creareFelDeMancare(TipSupa.SupaDeLegume, 300, 25);
 
-        fabricaFelDeMancare = new FabricaDesert();
-        FelDeMancare clatite = fabricaFelDeMancare.creareFelDeMancare(TipDesert.Clatite, 500, 20, 200);
-        FelDeMancare papanasi = fabricaFelDeMancare.creareFelDeMancare(TipDesert.Papanasi, 300, 35, 600);
+        FelDeMancare supaDeVita = fabricaFelDeMancare.creareFelDeMancare(TipSupa.SUPADEVITA,600,23.0);
+        FelDeMancare supaDeLegume =fabricaFelDeMancare.creareFelDeMancare(TipSupa.SUPADELEGUME,300,17.00);
 
-        supaDeLegume.afisareDescriere();
-        supaDeVita.afisareDescriere();
-        clatite.afisareDescriere();
-        papanasi.afisareDescriere();
+
+        FabricaFelDeMancare fabricaFelDeMancare2 = new FabricaDesert();
+        FelDeMancare clatite =fabricaFelDeMancare2.creareFelDeMancare(TipDesert.CLATITE,400,350,20.00);
+        FelDeMancare papanasi = fabricaFelDeMancare2.creareFelDeMancare(TipDesert.PAPANASI, 400, 100,16.00);
+
+        supaDeLegume.afiseazaDescriere();
+        supaDeVita.afiseazaDescriere();
+        clatite.afiseazaDescriere();
+        papanasi.afiseazaDescriere();
     }
 }
