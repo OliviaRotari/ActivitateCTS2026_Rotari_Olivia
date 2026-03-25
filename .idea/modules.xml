@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6FactoryMethod/Seminar6FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar6FactoryMethod/Seminar6FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6Prototype/Seminar6Prototype.iml" filepath="$PROJECT_DIR$/Seminar6Prototype/Seminar6Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/LucruIndividual/Singleton/Singleton.iml" />
     </modules>
   </component>
 </project>
