@@ -1,0 +1,12 @@
+package ro.ase.cts.CinemaSimpleFactory.clase;
+
+public class SupaDeVita extends Supa{
+    public SupaDeVita(int gramaj, double pret) {
+        super(gramaj, pret);
+    }
+
+    @Override
+    public void afiseazaDescriere() {
+        System.out.println("Supa de vita "+super.toString());
+    }
+}
