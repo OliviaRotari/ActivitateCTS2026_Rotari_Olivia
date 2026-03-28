@@ -1,0 +1,8 @@
+package ro.ase.cts.clase;
+
+public class TransportAutobuz implements IPachetTuristic{
+    @Override
+    public void afisareDescriere() {
+        System.out.println("Acesta este un pachetde tip TRANSPORT AUTOBUZ");
+    }
+}

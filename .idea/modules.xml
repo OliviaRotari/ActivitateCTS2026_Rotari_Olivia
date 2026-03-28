@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2_Simple_Facatory_Spital/A2_Simple_Facatory_Spital.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2_Simple_Facatory_Spital/A2_Simple_Facatory_Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/A3SpitalFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/A3SpitalFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026_Rotari_Olivia.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026_Rotari_Olivia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3_Simple_Factory_Restaurant/B3_Simple_Factory_Restaurant.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3_Simple_Factory_Restaurant/B3_Simple_Factory_Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1_Simple_Factory_Farmacie/C1_Simple_Factory_Farmacie.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1_Simple_Factory_Farmacie/C1_Simple_Factory_Farmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1_Simple_Factory_Banca/D1_Simple_Factory_Banca.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1_Simple_Factory_Banca/D1_Simple_Factory_Banca.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1_Single_Factory_Sportiv/E1_Single_Factory_Sportiv.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1_Single_Factory_Sportiv/E1_Single_Factory_Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" filepath="$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2and3.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2and3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" filepath="$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" />
@@ -15,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5Builder/Seminar5Builder.iml" filepath="$PROJECT_DIR$/Seminar5Builder/Seminar5Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6FactoryMethod/Seminar6FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar6FactoryMethod/Seminar6FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6Prototype/Seminar6Prototype.iml" filepath="$PROJECT_DIR$/Seminar6Prototype/Seminar6Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/Simple-Factory_Abonati_Telefonici/Simple-Factory_Abonati_Telefonici.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/Simple-Factory_Abonati_Telefonici/Simple-Factory_Abonati_Telefonici.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactory2ProblemeCarte/SimpleFactory2ProblemeCarte.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactory2ProblemeCarte/SimpleFactory2ProblemeCarte.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/SimpleFactoryAgentieTurism.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/SimpleFactoryAgentieTurism.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryProbleme.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryProbleme.iml" />
