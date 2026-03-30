@@ -1,0 +1,19 @@
+ Agenția AgeTur oferă pachete de transport cu facilități extra precum: WiFi,
+animale de companie, locuri pentru fumători, aer condiționat, televizor.
+ Aceste facilități sunt adăugate doar dacă un client le dorește, nefiind
+incluse în pachetul de bază.
+ După ce pachetul a fost creat, acesta nu mai poate modificat de către
+client.
+ Să se implementeze modulul de creare pachete de transport pentru
+agenția AgeTur
+
+Există două variante de implementare ale acestui Design Pattern:
+ Crearea obiectului complex în constructorul clasei Builder și modificarea atributelor conform
+cerințelor. În această situație Builder (PachetTransportBuilder) are un singur atribut de tipul
+Produs (PachetTransport);
+ Crearea obiectului complex se realizează în metoda build() pe baza setărilor realizate. În
+această situație clasa Builder (PachetTransportBuilder) conține aceleași atribute ca și clasa
+Produs (PachetTransport).
+
+Există și o a treia variantă de implementare care presupune utilizarea unei
+clase imbricate (Inner class).
