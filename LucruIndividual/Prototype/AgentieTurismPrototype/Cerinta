@@ -1,0 +1,7 @@
+Agenția AgeTur dorește să trimită lista de oferte existentă în baza de date,
+tuturor clienților.
+ Trimiterea ofertelor tuturor clienților durează foarte mult deoarece la
+fiecare client este creat un obiect de tipul ListaOferte. La crearea
+obiectului se citesc din fișier toate ofertele.
+ Să se găsească o soluție eficientă prin care listele de oferte să fie
+încărcate mai repede.
