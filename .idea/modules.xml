@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/Builder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1_Simple_Factory_Farmacie/C1_Simple_Factory_Farmacie.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1_Simple_Factory_Farmacie/C1_Simple_Factory_Farmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2_Farmacie_FM/C2_Farmacie_FM.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2_Farmacie_FM/C2_Farmacie_FM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/CinemaBuilder/CinemaBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/CinemaBuilder/CinemaBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/CinemaPrototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/CinemaPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/Cinema_Factory_Method/Cinema_Factory_Method.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/Cinema_Factory_Method/Cinema_Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1_Simple_Factory_Banca/D1_Simple_Factory_Banca.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1_Simple_Factory_Banca/D1_Simple_Factory_Banca.iml" />
