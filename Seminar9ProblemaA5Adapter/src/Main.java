@@ -1,5 +1,3 @@
-package ro.ase.cts;
-
 import spital.Medicament;
 import spital.MedicamentAdapter;
 

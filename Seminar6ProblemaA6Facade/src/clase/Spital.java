@@ -1,4 +1,4 @@
-package ro.ase.cts.clase;
+package clase;
 
 public class Spital {
     private  Medic medic;

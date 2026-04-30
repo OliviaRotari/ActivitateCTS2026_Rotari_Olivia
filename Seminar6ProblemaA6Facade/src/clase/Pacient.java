@@ -1,4 +1,4 @@
-package ro.ase.cts.clase;
+package clase;
 
 public class Pacient {
     private String nume;

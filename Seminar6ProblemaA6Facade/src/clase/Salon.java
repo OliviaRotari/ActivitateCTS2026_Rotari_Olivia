@@ -1,4 +1,4 @@
-package ro.ase.cts.clase;
+package clase;
 
 import java.util.*;
 

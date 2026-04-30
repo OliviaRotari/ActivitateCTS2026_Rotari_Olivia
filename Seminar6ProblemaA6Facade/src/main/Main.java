@@ -1,9 +1,9 @@
-package ro.ase.cts.main;
+package main;
 
-import ro.ase.cts.clase.Medic;
-import ro.ase.cts.clase.Pacient;
-import ro.ase.cts.clase.Salon;
-import ro.ase.cts.clase.Spital;
+import clase.Medic;
+import clase.Pacient;
+import clase.Salon;
+import clase.Spital;
 
 public class Main {
     public static void main(String[] args) {
