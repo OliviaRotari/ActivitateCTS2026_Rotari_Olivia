@@ -1,0 +1,16 @@
+package clase;
+
+public class CalatorieTramvai extends CalatorieHandler {
+
+    public CalatorieTramvai() {
+        super();
+    }
+
+    @Override
+    public String recomandareCalatorie(double distanta) {
+        if (distanta < 10) {
+            return "Tramvai";
+        }
+        return super.calatorieHandler.recomandareCalatorie(distanta);
+    }
+}

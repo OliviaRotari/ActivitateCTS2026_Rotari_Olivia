@@ -50,6 +50,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" filepath="$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10StrategyB11Restaurant/Seminar10StrategyB11Restaurant.iml" filepath="$PROJECT_DIR$/Seminar10StrategyB11Restaurant/Seminar10StrategyB11Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11Command/Seminar11Command.iml" filepath="$PROJECT_DIR$/Seminar11Command/Seminar11Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12ChainOfResponsability/Seminar12ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar12ChainOfResponsability/Seminar12ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12Command_STB/Seminar12Command_STB.iml" filepath="$PROJECT_DIR$/Seminar12Command_STB/Seminar12Command_STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12Strategy/Seminar12Strategy.iml" filepath="$PROJECT_DIR$/Seminar12Strategy/Seminar12Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2and3.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2and3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" filepath="$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4Singleton_SimpleFactory/Seminar4Singleton_SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4Singleton_SimpleFactory/Seminar4Singleton_SimpleFactory.iml" />
