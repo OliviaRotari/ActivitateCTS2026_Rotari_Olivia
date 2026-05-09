@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1_Simple_Factory_Farmacie/C1_Simple_Factory_Farmacie.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1_Simple_Factory_Farmacie/C1_Simple_Factory_Farmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2_Farmacie_FM/C2_Farmacie_FM.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2_Farmacie_FM/C2_Farmacie_FM.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/C3_Farmacie_Builder/C3_Farmacie_Builder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/C3_Farmacie_Builder/C3_Farmacie_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/ChainOfResponsabilit/ChainOfR_Banca_D16/ChainOfR_Banca_D16.iml" filepath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsabilit/ChainOfR_Banca_D16/ChainOfR_Banca_D16.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/ChainOfResponsabilit/ChainOfResponsabilit.iml" filepath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsabilit/ChainOfResponsabilit.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/ChainOfResponsabilit/ChainOfResponsabilitAgentieTurism/ChainOfResponsabilitAgentieTurism.iml" filepath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsabilit/ChainOfResponsabilitAgentieTurism/ChainOfResponsabilitAgentieTurism.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/CinemaBuilder/CinemaBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/CinemaBuilder/CinemaBuilder.iml" />
@@ -59,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Momento/MomentoAgentieTuristica/MomentoAgentieTuristica.iml" filepath="$PROJECT_DIR$/LucruIndividual/Momento/MomentoAgentieTuristica/MomentoAgentieTuristica.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Observer/Observer.iml" filepath="$PROJECT_DIR$/LucruIndividual/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Observer/ObserverAgentieTurism/ObserverAgentieTurism.iml" filepath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverAgentieTurism/ObserverAgentieTurism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Observer/ObserverRestaurant_B12/ObserverRestaurant_B12.iml" filepath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverRestaurant_B12/ObserverRestaurant_B12.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1/PregatireTest1.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1/PregatireTest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1/Transmisiunilive_Prot_FactMeth/PrototypeTransmisiuni/PrototypeTransmisiuni.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1/Transmisiunilive_Prot_FactMeth/PrototypeTransmisiuni/PrototypeTransmisiuni.iml" />
@@ -92,6 +94,8 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SingletonProbleme/SingletonProbleme.iml" filepath="$PROJECT_DIR$/LucruIndividual/SingletonProbleme/SingletonProbleme.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/State/State.iml" filepath="$PROJECT_DIR$/LucruIndividual/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/State/StateAgentie/StateAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/StateAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/LucruIndividual/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Strategy/StrategyFarmacie_C11/StrategyFarmacie_C11.iml" filepath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategyFarmacie_C11/StrategyFarmacie_C11.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1/Subiect_Bicicleta_Builder_SimpleFactory/Subiect_Bicicleta_Builder_SimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1/Subiect_Bicicleta_Builder_SimpleFactory/Subiect_Bicicleta_Builder_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1/Subiect_Broadcasting_Protptype_SimpFact/Subiect_Broadcasting_Protptype_SimpFact.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1/Subiect_Broadcasting_Protptype_SimpFact/Subiect_Broadcasting_Protptype_SimpFact.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Template/Template.iml" filepath="$PROJECT_DIR$/LucruIndividual/Template/Template.iml" />
