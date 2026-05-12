@@ -11,7 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeClaseAgentie/AdapterDeClaseAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeClaseAgentie/AdapterDeClaseAgentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeClaseRestaurantF5/AdapterDeClaseRestaurantF5.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeClaseRestaurantF5/AdapterDeClaseRestaurantF5.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteAgentie/AdapterDeObiecteAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteAgentie/AdapterDeObiecteAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteBanca_D5/AdapterDeObiecteBanca_D5.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteBanca_D5/AdapterDeObiecteBanca_D5.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSTB_F4/AdapterDeObiecteSTB_F4.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSTB_F4/AdapterDeObiecteSTB_F4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportiv_E5/AdapterDeObiecteSportiv_E5.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportiv_E5/AdapterDeObiecteSportiv_E5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecte_Farmacie_C5/AdapterDeObiecte_Farmacie_C5.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecte_Farmacie_C5/AdapterDeObiecte_Farmacie_C5.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/AgentieBrokerajBuilder/AgentieBrokerajBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieBrokerajBuilder/AgentieBrokerajBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/AgentieTurismBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/AgentieTurismBuilder.iml" />
@@ -42,14 +45,20 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/D4_Banca_Prototype/D4_Banca_Prototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/D4_Banca_Prototype/D4_Banca_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/DecoratorAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/DecoratorAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacie_C7/DecoratorFarmacie_C7.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacie_C7/DecoratorFarmacie_C7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB_F7/DecoratorSTB_F7.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB_F7/DecoratorSTB_F7.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSpital_A7/DecoratorSpital_A7.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSpital_A7/DecoratorSpital_A7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportiv_E7/DecoratorSportiv_E7.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportiv_E7/DecoratorSportiv_E7.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1_Single_Factory_Sportiv/E1_Single_Factory_Sportiv.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1_Single_Factory_Sportiv/E1_Single_Factory_Sportiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2_Jucator_Factory_Method/E2_Jucator_Factory_Method.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2_Jucator_Factory_Method/E2_Jucator_Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/E3SportBuilder/E3SportBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/E3SportBuilder/E3SportBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/E4SportivPrototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/E4SportivPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/Facade.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/FacadeAgentie/FacadeAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeAgentie/FacadeAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/FacadeCinematograf.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/FacadeCinematograf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacie_C6/FacadeFarmacie_C6.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacie_C6/FacadeFarmacie_C6.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/FacadeSTB_F5/FacadeSTB_F5.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeSTB_F5/FacadeSTB_F5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/Facade_Sportiv_E6/Facade_Sportiv_E6.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/Facade_Sportiv_E6/Facade_Sportiv_E6.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAgentie/FlyweightAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAgentie/FlyweightAgentie.iml" />

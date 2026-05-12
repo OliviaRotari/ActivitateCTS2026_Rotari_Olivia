@@ -1,0 +1,5 @@
+6. Atunci când un client dorește să cumpere medicamente farmacistul trebuie să verifice în sistem rețeta
+ clientului, trebuie să verifice disponibilitatea medicamentelor solicitate în depozitul farmaciei,
+  și verificarea cardului de sănătate. Farmacistul trebuie sa verifice toate le trei lucruri in trei
+   locuri diferite. Sa se implementeze un modul in cadrul aplicației care să permită farmacistului
+   verificarea tuturor celor trei elemente într-un singur loc.
