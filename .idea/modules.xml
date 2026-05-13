@@ -62,7 +62,11 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAgentie/FlyweightAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAgentie/FlyweightAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAsigurare/FlyweightAsigurare.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAsigurare/FlyweightAsigurare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/FlyweightBancaD10.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/FlyweightBancaD10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/FlyweightCinema.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/FlyweightCinema.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightFarmacieC10/FlyweightFarmacieC10.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightFarmacieC10/FlyweightFarmacieC10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightHotel/FlyweightHotel.iml" filepath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightHotel/FlyweightHotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" filepath="$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1/Transmisiunilive_Prot_FactMeth/MethodFactory/MethodFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1/Transmisiunilive_Prot_FactMeth/MethodFactory/MethodFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Momento/Momento.iml" filepath="$PROJECT_DIR$/LucruIndividual/Momento/Momento.iml" />
