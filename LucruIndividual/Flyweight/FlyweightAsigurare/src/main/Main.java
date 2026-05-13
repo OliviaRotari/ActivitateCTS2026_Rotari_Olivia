@@ -16,6 +16,7 @@ public class Main {
             contract.printeaza();
         }
 
+
         System.out.println("\nS-au printat " + contracteDePrintat.getNrContractePrintate()
                 + " documente de tip contracte");
         System.out.println("S-au creeat: " + contracteDePrintat.getNumarMatriteContracte()
