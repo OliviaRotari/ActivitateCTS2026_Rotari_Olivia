@@ -79,7 +79,11 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1/Transmisiunilive_Prot_FactMeth/PrototypeTransmisiuni/PrototypeTransmisiuni.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1/Transmisiunilive_Prot_FactMeth/PrototypeTransmisiuni/PrototypeTransmisiuni.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/ProxyAgentie/ProxyAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyAgentie/ProxyAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/ProxyAsigurari/ProxyAsigurari.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyAsigurari/ProxyAsigurari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/ProxyBanca_D8/ProxyBanca_D8.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyBanca_D8/ProxyBanca_D8.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/ProxySpitalA9/ProxySpitalA9.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySpitalA9/ProxySpitalA9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/ProxySpital_A9/ProxySpital_A9.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySpital_A9/ProxySpital_A9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/ProxySportiv.iml" filepath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/ProxySportiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semianr11ObserverSpital/Semianr11ObserverSpital.iml" filepath="$PROJECT_DIR$/Semianr11ObserverSpital/Semianr11ObserverSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10FlywayB10/Seminar10FlywayB10.iml" filepath="$PROJECT_DIR$/Seminar10FlywayB10/Seminar10FlywayB10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" filepath="$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" />

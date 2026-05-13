@@ -1,0 +1,1 @@
+8. Banca ia hotărârea sa se realizeze credite doar în RON, deși în momentul de față oferă posibilitatea creării de conturi în orice monedă. Să se realizeze un nivel intermediar pentru clasa Credit, care să permită realizarea contului doar dacă se cere să fie în RON.
