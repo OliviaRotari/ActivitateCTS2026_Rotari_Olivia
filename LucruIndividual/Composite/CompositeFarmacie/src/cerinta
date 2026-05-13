@@ -1,0 +1,13 @@
+C8. Dirigintele farmaciei dorește
+ organizarea medicamentelor
+  într-o structura arborescenta pentru o
+căutare facila a acestora de către farmaciști.
+ Astfel medicamentele vor fi organizate in cadrul
+aplicației pe secțiuni
+(Răceala, Durere, Antibiotice, etc)
+Fiecare secțiune conține subsecțiuni
+(Adulți, Copii, etc) sau medicamentele
+din acea categorie. Sa se realizeze modulul
+ care permite
+reprezentarea arborescenta a medicamentelor in
+ cadrul aplicației
