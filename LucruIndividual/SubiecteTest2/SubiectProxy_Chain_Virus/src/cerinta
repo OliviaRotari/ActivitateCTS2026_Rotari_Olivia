@@ -1,0 +1,23 @@
+Realizarea unui software antivirus avansat.
+
+3 p. Una dintre funcțiile antivirusului este de a proteja utilizatorii de site-urile rău intenționate. Un apel HTTP derivă din HttpCall. Folosind un model de design, acesta permite protejarea utilizatorului prin blocarea apelului HTTP oricărui, pentru a realiza acest lucru se realizează că este vorba de un site dintr-o listă predefinită de site-uri rău intenționate.
+
+1,5 p. Implementarea testului a creat mai întâi 3 obiecte în familia de clase HttpCall. Demonstrati faptul că un call către un site din lista de site-uri malițioase nu este permis, atunci când unul realizat către un site ce nu este considerat periculos se va realiza cu succes.
+
+3 p. Antivirusul folosește un proces în fundal care scanează permanent hard disk-ul cauzat de virus. Când este detectat un virus, procesul antivirus principal decide dacă să trateze virusul în funcție de severitatea sa. Procesul de scanare simplă va întrerupe procesul cu virusul, va continua, procesul principal va decide să meargă în paralel și să proceseze evenimentul. Folosind un design care permite acest lucru, vă puteți asigura că procesul principal derivă din interfața VirusHandler și poate fi utilizat.
+
+oală a existat dacă cealaltă componentă a acestui proces ar fi fost cauzată de interferența cu virusul.
+
+1,5 p. Testarea este efectuată manual și creată în 3 scenarii pentru a ține cont de gravitatea problemei la detectarea și gestionarea acesteia.
+
+interfață publică HttpCall {
+
+String get(String url);
+
+boolean ping(String url);
+
+}
+
+public interface VirusHandler { void handleVirus(int severity);
+
+}
